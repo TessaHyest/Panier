@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+table,tr{
+	background-color: #ccc;
+	display:flex;
+	flex-direction: column;
+	
+}]
